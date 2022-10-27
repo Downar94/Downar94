@@ -1,5 +1,9 @@
 ### Hi there 👋
 My name is Łukasz Downar. Currently live in Wrocław, Poland.
+- Trying to develop in the field of computer science. Especially in python, relational databases.
+- Currently I am looking for my first commercial job.
+## Connect with me 🔗
+
 <!--
 **Downar94/Downar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
