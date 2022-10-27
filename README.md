@@ -3,7 +3,7 @@ My name is Łukasz Downar. Currently live in Wrocław, Poland.
 - Trying to develop in the field of computer science. Especially in python, relational databases.
 - Currently I am looking for my first commercial job.
 ## Connect with me 🔗
-![image](https://user-images.githubusercontent.com/44844566/198267589-d956a25d-f250-4347-b5ea-570333f29387.png)
+[![image](https://user-images.githubusercontent.com/44844566/198267589-d956a25d-f250-4347-b5ea-570333f29387.png)](https://linkedin.com/in/lukasz-downar)
 <!--
 **Downar94/Downar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
