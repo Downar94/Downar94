@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Łukasz Downar. Currently live in Wrocław, Poland.
-- Trying to develop in the field of computer science. Especially in python, relational databases.
-- Currently I am looking for my first commercial job.
+- Developing in the field of computer science. Especially in python, relational databases.
+
 ## Connect with me 🔗
 [<img src="https://user-images.githubusercontent.com/44844566/198267589-d956a25d-f250-4347-b5ea-570333f29387.png" width="50" height="50">](https://linkedin.com/in/lukasz-downar)
 <!--
